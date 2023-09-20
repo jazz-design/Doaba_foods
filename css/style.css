@@ -1,7 +1,7 @@
 /********** Template CSS **********/
 :root {
-    --primary: #3CB815;
-    --secondary: #F65005;
+    --primary: #6d9137;
+    --secondary: #f89400;
     --light: #F7F8FC;
     --dark: #111111;
 }
@@ -91,7 +91,7 @@
 
 .top-bar {
     height: 45px;
-    border-bottom: 1px solid rgba(0, 0, 0, .07);
+    border-bottom: 2px solid rgba(0, 0, 0, .07);
 }
 
 .navbar .dropdown-toggle::after {
@@ -105,9 +105,10 @@
 
 .navbar .navbar-nav .nav-link {
     padding: 25px 15px;
-    color: #555555;
-    font-weight: 500;
+    color: #92381f;
+    font-weight: 600;
     outline: none;
+	font-size:17px;
 }
 
 .navbar .navbar-nav .nav-link:hover,
