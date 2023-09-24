@@ -196,6 +196,44 @@
     background-size: cover;
 }
 
+.page-header-contact {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url("../img/contact_header.jpg") top right no-repeat;
+    background-size: cover;
+}
+
+.page-header-about {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url("../img/about_header.jpg") top right no-repeat;
+    background-size: cover;
+}
+
+.page-header-why {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url("../img/why_header.jpg") top right no-repeat;
+    background-size: cover;
+}
+
+
+.page-header-ts {
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url("../img/ts_header.jpg") top right no-repeat;
+    background-size: cover;
+}
+
+.page-header-pro{
+    padding-top: 12rem;
+    padding-bottom: 6rem;
+    background: url("../img/pro_header.jpg") top right no-repeat;
+    background-size: cover;
+}
+
+
+
 .breadcrumb-item+.breadcrumb-item::before {
     color: #999999;
 }
